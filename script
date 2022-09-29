@@ -1,0 +1,6 @@
+brew tap homebrew/cask-versions
+brew tap homebrew/cask-fonts
+brew install vlc brave-browser google-chrome whatsapp stats htop avibrazil-rdm lunar obs teamviewer spotify keepassxc
+brew install visual-studio-code postman firefox
+brew install mysqlworkbench robo-3t dbeaver-community
+brew install tunnelblick
